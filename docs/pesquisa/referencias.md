@@ -4,9 +4,9 @@ Durante a exploração de templates para o projeto, foram selecionadas referênc
 
 ## 1. Referências do Figma
 * **Template 1: Student App Dashboard** (https://www.figma.com/community/file/1038033084068266047)
-  * Gostei da clareza na listagem de disciplinas e no acompanhamento das notas.
+  * Gostei da simplicidade e praticidade.
 * **Template 2: Task Manager UI Kit** (https://www.figma.com/community/file/1424891869611595321)
-  * Lista de tarefas limpa com checkboxes e prazos visíveis que ajudam na produtividade.
+  * Interessante, é bem ilustrativo e chama atenção.
 
 ## 2. Estrutura Xano
 * Separação de tabelas de usuário e tarefas para garantir uma modelagem de dados consistente.
